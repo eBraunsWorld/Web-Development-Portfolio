@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: rgba(172, 185, 159, 0.527);
+    font-family: 'Quicksand', sans-serif;
+    width: 75%;
+    padding-right: 12.5%;
+    padding-left: 12.5%;
+}
+
+hr {
+    border-top: 5pt ;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    border-style: dotted;
+    width: 50%;
+    height: 0.5rem;
+    color: gray;
+}
+
+a {
+    color: #11999E;
+    font-weight: bold;
+}
+    a:hover {
+        color:black
+    }
